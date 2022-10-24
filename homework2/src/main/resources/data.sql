@@ -1,1 +1,0 @@
-INSERT INTO books(author, title, size) VALUES ('James Joyce', 'Ulysses', 732);
