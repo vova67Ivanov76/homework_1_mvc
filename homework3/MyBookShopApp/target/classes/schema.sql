@@ -6,4 +6,4 @@ CREATE TABLE  books(
                        title VARCHAR(250) NOT NULL,
                        priceOld  VARCHAR(250) DEFAULT NULL,
                        price VARCHAR(250) DEFAULT NULL
-);
+); 
