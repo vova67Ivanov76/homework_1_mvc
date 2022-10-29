@@ -44,5 +44,5 @@
         "recursive-readdir": "^2.2.2"
     },
     "author": "lunpully.com",
-    "license": "ISC"
+    "license": "ISC" 
 }
