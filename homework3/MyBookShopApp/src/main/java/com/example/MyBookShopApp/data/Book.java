@@ -14,8 +14,8 @@ public class Book {
                 "id=" + id +
                 ", author='" + author + '\'' +
                 ", title='" + title + '\'' +
-                ", priceOld=" + priceOld +
-                ", price=" + price +
+                ", priceOld='" + priceOld + '\'' +
+                ", price='" + price + '\'' +
                 '}';
     }
 
