@@ -22,4 +22,4 @@ insert into books (author, title, priceOld, price) values ('Cristie Isacsson', '
 insert into books (author, title, priceOld, price) values ('Lindsay Coutthart', 'implement user-centric e-markets', '$254.70', '$115.31');
 insert into books (author, title, priceOld, price) values ('Helyn Schneidar', 'utilize magnetic supply-chains', '$279.70', '$77.86');
 insert into books (author, title, priceOld, price) values ('Bette-ann Askem', 'e-enable dot-com supply-chains', '$297.83', '$110.15');
-insert into books (author, title, priceOld, price) values ('Dom Robuchon', 'facilitate efficient eyeballs', '$232.30', '$131.48');
+insert into books (author, title, priceOld, price) values ('Dom Robuchon', 'facilitate efficient eyeballs', '$232.30', '$131.48'); 
